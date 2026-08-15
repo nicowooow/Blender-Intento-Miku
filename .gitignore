@@ -1,3 +1,6 @@
 imagenes/*
 *.blend1
 .mp4
+scripts/__pycache__/
+scripts/*_report.json
+rig_report.json
